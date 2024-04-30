@@ -1,1 +1,5 @@
-console.log('Hello Node.js!')
+console.log('Hello NodeJS!')
+
+const myName = 'Bogdan'
+console.log(myName)
+
